@@ -12,12 +12,14 @@ Antes de executar o código, certifique-se de ter os seguintes requisitos instal
 
 ## Como utilizar
 
-1. Clone ou faça o download deste repositório.
-  https://github.com/dayaneLima/colab-gemini-basic.git
+1. Clone/faça o download deste repositório ou abra diretamente no github colab:
+   
+  - Repositório: https://github.com/dayaneLima/colab-gemini-basic.git
+  - Link abrir no Colab: https://colab.research.google.com/github/dayaneLima/colab-gemini-basic/blob/main/ImersaoAlura.ipynb
 
-2. Abra o arquivo `ImersaoAlura.ipynb` no Google Colab.
+3. Abra o arquivo `ImersaoAlura.ipynb` no Google Colab.
 
-3. Siga as instruções dentro do notebook para configurar e executar o chat.
+4. Siga as instruções dentro do notebook para configurar e executar o chat.
 
 ## Detalhes do projeto
 
